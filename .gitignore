@@ -1,0 +1,9 @@
+node_modules/
+public/styles
+.env
+*.log
+*.sqlite3
+
+# OS metadata
+.DS_Store
+Thumbs.db
