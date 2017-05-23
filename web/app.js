@@ -30,7 +30,7 @@ export default (config) => {
     // set defaultLayout directory
     layoutsDir: `${__dirname}/views/layouts/`,
     // set partial directory
-    partialsDir: `${__dirname}/views/`,
+    partialsDir: `${__dirname}/views/partials`,
   }));
 
   app.set('views', `${__dirname}/views`);
